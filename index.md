@@ -1,6 +1,6 @@
 ## Bike Share Stations and Attractions Heatmap 
 
-My Sample Map for Bike Share ppl
+My Sample Map for Bike Share lovers
 
 <iframe src="P8Heatmap1.html" Height="800" width="500"></iframe>
 
